@@ -1,4 +1,4 @@
-7808
+7807
 147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\svgo\LICENSE133195636846058420 0
 178C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\esnext.iterator.to-async.js133195745936835395 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lightningcss\node\ast.d.ts133195636851728032 0
@@ -27,7 +27,7 @@
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\forkify-flowchart-part-3.png133116033426550256 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\set\add-all.js133195745927373162 0
 158C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\es\string\at.js133195745928944652 0
-151C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\addRecipeView.js133201783966665291 0
+151C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\addRecipeView.js133205797260504038 0
 187C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133195636851878551 0
 175C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\abortcontroller-polyfill\src\ponyfill.js133195636850645341 0
 162C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\svgo\plugins\removeXMLNS.js133195636855652000 0
@@ -48,7 +48,7 @@
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\htmlnano\docs\package-lock.json133195636854520283 0
 176C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\internals\object-is-extensible.js133195745952707944 0
 159C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\abortcontroller-polyfill133195636851301082 1
-126C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist133201784441992412 1
+126C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist133206922487862979 1
 162C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\cosmiconfig\dist\index.d.ts133195636853937613 0
 182C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133195636846913546 0
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@swc\helpers\lib\_non_iterable_rest.js133195636855382777 0
@@ -109,18 +109,18 @@
 172C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\core\src\public\Dependency.js133195636855437570 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\regions\TL.js133195636865054311 0
 142C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\process133195746754222912 1
-132C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\index.html133200018825269484 0
+132C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\index.html133206917502234938 0
 139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\package-lock.json133196578174394047 0
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.string.fontcolor.js133195745935093584 0
 178C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\localecompare.js133195636862358700 0
 178C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\stable\string\virtual\trim-right.js133195745961015376 0
-134C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\package.json133196578174404050 0
+134C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\package.json133206919622939926 0
 159C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\css-tree\dist\csstree.js133195636853932714 0
 191C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133195636852222726 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\type-fest\source\utilities.d.ts133195636854112043 0
 167C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\proposals\error-cause.js133195745933242489 0
 165C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\array\group-by.js133195745944284759 0
-139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\helpers.js133196619033440658 0
+139C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\helpers.js133206916731422739 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\set\is-superset-of.js133195745948600728 0
 158C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\is-binary-path\index.js133195637443204856 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\number\range.js133195745954225614 0
@@ -240,7 +240,7 @@
 143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\sass\_upload.scss133116033428823521 0
 194C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133195636854236728 0
 214C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\package.json133195636856845687 0
-138C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\config.js133200063591616435 0
+138C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\config.js133206916752446436 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\number\to-fixed.js133195745959190758 0
 183C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\internals\iterator-create-constructor.js133195745949035797 0
 165C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\cache\lib\LMDBCache.js133195636850472104 0
@@ -248,7 +248,7 @@
 157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\path-type\package.json133195636845944348 0
 176C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133195636855442571 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\es\string\italics.js133195745948875381 0
-142C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\controller.js133201784440134854 0
+142C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\controller.js133205824104059224 0
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\posthtml\types\posthtml.d.ts133195636849182128 0
 171C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\instance\unshift.js133195745962026162 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\iterator\index.js133195745946482889 0
@@ -270,7 +270,7 @@
 153C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\json5\package.json133195636851033304 0
 183C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@babel\highlight\node_modules\chalk\templates.js133195636849140414 0
 141C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\fracty133196578173907766 1
-137C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\model.js133201750742734349 0
+137C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\model.js133206917182746265 0
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\array\virtual\index-of.js133195745945527862 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\weak-map\upsert.js133195745962176713 0
 143C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\boolbase133195636847106724 1
@@ -302,7 +302,7 @@
 152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\paginationView.js133200097158970553 0
 165C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\actual\string\blink.js133195745929559421 0
 168C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\actual\clear-immediate.js133195745929896852 0
-149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\previewView.js133201734472319635 0
+149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\previewView.js133206697221156536 0
 176C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\actual\url-search-params\index.js133195745945929418 0
 152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\mdn-data\index.js133195636848054450 0
 172C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\stable\symbol\has-instance.js133195745944647557 0
@@ -312,7 +312,7 @@
 186C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\object\get-own-property-symbols.js133195745943013147 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\json\to-string-tag.js133195745960226634 0
 156C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\chalk\source\index.js133195636846936803 0
-148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\recipeView.js133200904464290916 0
+148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\recipeView.js133206692496923085 0
 174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133195636855110669 0
 172C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\stable\typed-array\methods.js133195745952310709 0
 160C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\es\array\index.js133195745945991689 0
@@ -332,7 +332,7 @@
 179C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\battery-status.js133195636855271947 0
 193C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133195636856911599 0
 157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\stable\btoa.js133195745929759556 0
-142C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\View.js133201733725617249 0
+142C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\src\js\views\View.js133206916759560961 0
 175C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133195636846210085 1
 158C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\utility-types\README.md133195636851174936 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\array\virtual\with.js133195745962960126 0
@@ -864,6 +864,7 @@
 147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full133195745963031086 1
 154C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\readdirp\index.d.ts133195637443281934 0
 142C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\timsort133195636849805722 1
+145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\icons.c14567a0.svg133206922487793322 0
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\to-regex-range133195636847574483 1
 190C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-gnu.node133195636856923265 0
 174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\dom-range.js133195636859984948 0
@@ -1946,7 +1947,6 @@
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\sass\README.md133195637445935289 0
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.object.to-string.js133195745934605888 0
 152C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\sass\sass.dart.js133195637445807641 0
-144C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\logo.726d37a8.png133201784441615879 0
 177C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133195636855871270 1
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\nth-check\lib\esm\index.d.ts133195636852706737 0
 160C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\sass\sass.default.dart.js133195637445853146 0
@@ -2347,7 +2347,6 @@
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133195636853729282 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\node-addon-api\common.gypi133195636847140335 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\escape.js133195745936089285 0
-144C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.e37f48ea.js133201784441909090 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@swc\helpers\src\_create_class.mjs133195636857609944 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\node-addon-api\except.gypi133195636847604713 0
 187C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133195636851174936 0
@@ -2702,7 +2701,6 @@
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\regions\BI.js133195636855728401 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lines-and-columns\build\index.d.ts133195636848513457 0
 167C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lines-and-columns\build\index.js133195636846807223 0
-145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\icons.21bad73c.svg133201784441909090 0
 195C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133195636857120903 0
 173C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\stable\array\virtual\filter.js133195745939251306 0
 155C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\lightningcss\LICENSE133195636846034351 0
@@ -4193,6 +4191,7 @@
 181C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.reflect.set-prototype-of.js133195745934895928 0
 175C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.regexp.constructor.js133195745934924569 0
 168C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.regexp.exec.js133195745934942878 0
+144C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.a9571379.js133206922487803296 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.regexp.flags.js133195745934952880 0
 171C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\async-iterator\every.js133195745938445592 0
 170C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\es.regexp.sticky.js133195745934959355 0
@@ -4382,7 +4381,6 @@
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\regions\BD.js133195636855437570 0
 171C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\full\array-buffer\is-view.js133195745948665322 0
 175C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\esnext.map.map-values.js133195745936973815 0
-148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.e37f48ea.js.map133201784441968724 0
 170C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\modules\esnext.map.merge.js133195745936985400 0
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\string\virtual\trim-start.js133195745961108222 0
 149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\.bin\json5.cmd133195636866410445 0
@@ -5451,7 +5449,6 @@
 176C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\reflect\to-string-tag.js133195745960200585 0
 166C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\promise\any.js133195745927800044 0
 179C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\object\define-properties.js133195745931903423 0
-145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\icons.dfd7a6db.svg133201784441650529 0
 239C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\package.json133195636857272318 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\object\entries.js133195745933073852 0
 174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\core-js\features\object\from-entries.js133195745941688889 0
@@ -6613,6 +6610,7 @@
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\abortcontroller.js133195636847599370 0
 178C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\accelerometer.js133195636848890364 0
 178C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\ambient-light.js133195636852962336 0
+144C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\logo.8a7af738.png133206922486251957 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\apng.js133195636853172394 0
 181C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\array-find-index.js133195636853298685 0
 186C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\credential-management.js133195636857560850 0
@@ -6662,7 +6660,6 @@
 145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\acorn\dist133195636851728032 1
 175C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\css-canvas.js133195636857865037 0
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\css-caret-color.js133195636857877092 0
-149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.f7626f62.css.map133201784441739284 0
 183C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\css-cascade-layers.js133195636857892776 0
 185C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\css-case-insensitive.js133195636857900499 0
 178C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\css-clip-path.js133195636857916073 0
@@ -6952,6 +6949,7 @@
 176C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\will-change.js133195636865910291 0
 186C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133195636847540656 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\woff.js133195636865926968 0
+149C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.987de634.css.map133206922487858026 0
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\x-doc-messaging.js133195636865967104 0
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\x-frame-options.js133195636865991527 0
 170C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\caniuse-lite\data\features\xhtml.js133195636866034955 0
@@ -7313,6 +7311,7 @@
 159C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\packager-raw\lib133195636846698932 1
 184C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\transformer-image\src\ImageTransformer.js133195636847522955 0
 177C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\transformer-image\lib\loadSharp.js133195636848153228 0
+145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.987de634.css133206922487803296 0
 167C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\transformer-html\LICENSE133195636846162350 0
 157C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\runtime-js\lib133195636853304860 1
 172C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\transformer-html\package.json133195636850044370 0
@@ -7472,7 +7471,7 @@
 180C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133195636846943163 0
 165C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\optimizer-htmlnano\lib133195636847985764 1
 174C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\optimizer-htmlnano\package.json133195636849287754 0
-137C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.html133201736191428589 0
+137C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.html133206922487773292 0
 176C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\optimizer-css\src\CSSOptimizer.js133195636847540656 0
 161C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\compressor-raw\src133195636847437776 1
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\node-resolver-core\LICENSE133195636846029239 0
@@ -7584,6 +7583,7 @@
 163C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\events\lib\errors.js133195636848913048 0
 164C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@babel\highlight\node_modules133195636827846242 1
 162C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\events\lib\index.js133195636849669059 0
+147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\favicon.76dd299c.png133206922479869750 0
 162C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\events\lib\types.js133195636850206416 0
 169C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\events\lib\ValueEmitter.js133195636850727774 0
 170C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\@parcel\compressor-raw\package.json133195636848207012 0
@@ -7805,5 +7805,4 @@
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\.bin\parcel.ps1133195636866419342 0
 148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\.bin\sass.ps1133195637447143367 0
 150C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\node_modules\.bin\terser.ps1133195636866427228 0
-147C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\favicon.8b2f57bf.png133201784441899091 0
-145C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.f7626f62.css133201784441692659 0
+148C:\Users\Irinka\OneDrive\Pulpit\My komputer\Programowanie\TEB - edukacja\Udemy courses\complete js course\big_app-forkify\dist\index.a9571379.js.map133206922487858026 0
