@@ -129,6 +129,5 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addhandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('TEST');
 };
 init();
